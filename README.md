@@ -6,7 +6,8 @@ This guide will help you understand the basic Git commands for creating and mana
 ## Forking a Repository
 
 1. Go to the repository you want to contribute to.
-2. Click the "Fork" button in the upper right corner to create a copy of the repository in your own GitHub account.
+2. Click the "Fork" button <img width="105" alt="image" src="https://github.com/AymanUzayr/PythonLab1/assets/68193240/d34b5917-25ee-4404-8f37-545d101b5e6a">
+ in the upper right corner to create a copy of the repository in your own GitHub account.
 
 ## Cloning a Repository
 To work on a local copy of the forked repository:
