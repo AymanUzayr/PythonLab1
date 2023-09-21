@@ -1,5 +1,5 @@
 # PythonLab1
-# Git Basics: Pull Requests and Pushes
+# Git Basics
 
 This guide will help you understand the basic Git commands for creating and managing pull requests and pushing your changes to a remote repository.
 
