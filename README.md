@@ -11,8 +11,8 @@ This guide will help you understand the basic Git commands for creating and mana
 ## Cloning a Repository
 To work on a local copy of the forked repository:
 
-git clone <repository-url>
-cd <repository-directory>
+> git clone <repository-url>
+> cd <repository-directory>
 
 Creating a Branch
 Create a new branch for your changes:
@@ -20,8 +20,8 @@ Create a new branch for your changes:
 
 Committing Changes
 Commit your changes with a descriptive message:
-git add .
-git commit -m "Description of changes"
+> git add .
+> git commit -m "Description of changes"
 
 Pushing Changes
 Push your branch to your forked repository on GitHub:
