@@ -12,12 +12,12 @@ This guide will help you understand the basic Git commands for creating and mana
 ## Cloning a Repository
 To work on a local copy of the forked repository:
 
-> git clone <repository-url>
-> cd <repository-directory>
+> git clone https://github.com/AymanUzayr/PythonLab1.git
+> cd PythonLab1 // here we are changing directory to the repo name
 
 Creating a Branch
 Create a new branch for your changes:
-> git checkout -b <branch-name>
+> git checkout -b <branch-name> // most of the time we will be pushing in main branch
 
 Committing Changes
 Commit your changes with a descriptive message:
