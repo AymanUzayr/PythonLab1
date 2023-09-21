@@ -18,7 +18,9 @@ To work on a local copy of the forked repository:
 Creating a Branch
 Create a new branch for your changes:
 > git checkout -b <branch-name>
+
 This creates a new branch for example, 3086 will give "AymanUzayr-3086" branch name, make sure to give your rollNo.(3XXX).
+
 Committing Changes
 Commit your changes with a descriptive message:
 > git add .
