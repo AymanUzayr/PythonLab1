@@ -17,7 +17,7 @@ To work on a local copy of the forked repository:
 
 Creating a Branch
 Create a new branch for your changes:
-> git checkout -b <branch-name> // most of the time we will be pushing in main branch
+> git checkout -b <branch-name> // this creates a new branch for example, 3086
 
 Committing Changes
 Commit your changes with a descriptive message:
