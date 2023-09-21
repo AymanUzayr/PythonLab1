@@ -6,17 +6,18 @@ This guide will help you understand the basic Git commands for creating and mana
 ## Forking a Repository
 
 1. Go to the repository you want to contribute to.
-2. Click the "Fork" button in the upper right corner to create a copy of the repository in your own GitHub account.
+2. Click the "Fork" button ![image](https://github.com/AymanUzayr/PythonLab1/assets/68193240/1e21c800-9770-48b4-bfa2-877447427026)
+ in the upper right corner to create a copy of the repository in your own GitHub account.
 
 ## Cloning a Repository
 To work on a local copy of the forked repository:
 
-> git clone <repository-url>
-> cd <repository-directory>
+> git clone https://github.com/AymanUzayr/PythonLab1.git
+> cd PythonLab1 // here we are changing directory to the repo name
 
 Creating a Branch
 Create a new branch for your changes:
-> git checkout -b <branch-name>
+> git checkout -b <branch-name> // most of the time we will be pushing in main branch
 
 Committing Changes
 Commit your changes with a descriptive message:
