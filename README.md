@@ -46,13 +46,6 @@ Confirm the merge.
 Your changes are now part of the base repository.
 
 
-```python
-def hello_world():
-    print("Hello, World!")
-
-hello_world()
-```
-
 
 
 
