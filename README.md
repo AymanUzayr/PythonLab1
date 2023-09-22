@@ -13,6 +13,7 @@ This guide will help you understand the basic Git commands for creating and mana
 To work on a local copy of the forked repository:
 
 > git clone https://github.com/AymanUzayr/PythonLab1.git
+
 > cd PythonLab1 // here we are changing directory to the repo name
 
 Creating a Branch
