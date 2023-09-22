@@ -44,8 +44,13 @@ Collaborators or project maintainers can review your pull request. Once approved
 Click the "Merge Pull Request" button.
 Confirm the merge.
 Your changes are now part of the base repository.
+<pre>
+```python#L2-L4
+def hello_world():
+    print("Hello, World!")
 
-
-
+hello_world()
+```
+</pre>
 
 
