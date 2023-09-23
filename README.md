@@ -13,21 +13,26 @@ This guide will help you understand the basic Git commands for creating and mana
 To work on a local copy of the forked repository:
 
 > git clone https://github.com/AymanUzayr/PythonLab1.git
+
 > cd PythonLab1 // here we are changing directory to the repo name
 
-Creating a Branch
+# Creating a Branch
 Create a new branch for your changes:
-> git checkout -b <branch-name> // this creates a new branch for example, 3086 will give "AymanUzayr-3086" branch name, make sure to give your rollNo.(3XXX).
-Committing Changes
+> git checkout -b <branch-name>
+
+This creates a new branch for example, 3086 will give "AymanUzayr-3086" branch name, make sure to give your rollNo.(3XXX).
+This is optional.
+
+# Committing Changes
 Commit your changes with a descriptive message:
 > git add .
 > git commit -m "Description of changes"
 
-Pushing Changes
+# Pushing Changes
 Push your branch to your forked repository on GitHub:
 > git push origin <branch-name>
 
-Creating a Pull Request
+# Creating a Pull Request
 Go to your forked repository on GitHub.
 Click on the "Pull Requests" tab.
 Click the "New Pull Request" button.
